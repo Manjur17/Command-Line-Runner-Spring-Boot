@@ -25,7 +25,7 @@ public class Student {
     }
 
     public Student(int id, String name, int age) {
-        this.id = id; //give some default value to primary key
+        this.id = id; //give some default value to primary key of database
         this.name = name;
         this.age = age;
     }
